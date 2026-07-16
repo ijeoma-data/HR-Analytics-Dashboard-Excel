@@ -30,7 +30,21 @@ The project demonstrates end-to-end data analysis, including data cleaning, KPI 
 - Conditional Formatting
 - Excel Formulas
 
----
+  ---
+
+  ## 💼 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Power Query (ETL)
+- PivotTable & PivotChart Analysis
+- KPI Development
+- Interactive Dashboard Design
+- Data Visualization
+- HR Analytics
+- Business Insight Generation
+- Automated Reporting with Slicers
+
+  ---
 
 ## 📊 Dashboard Features
 
