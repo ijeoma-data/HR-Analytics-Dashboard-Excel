@@ -121,3 +121,15 @@ HR-Analytics-Dashboard-Excel
 Data Analyst
 
 GitHub: https://github.com/ijeoma-data
+
+---
+
+## 🚀 Future Improvements
+
+This project can be extended by:
+
+- Building the dashboard in Microsoft Power BI.
+- Writing SQL queries for deeper workforce analysis.
+- Performing exploratory data analysis (EDA) using Python.
+- Developing a machine learning model to predict employee turnover.
+- Automating data refresh using Power Query with new HR datasets.
