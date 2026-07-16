@@ -56,16 +56,27 @@ The project demonstrates end-to-end data analysis, including data cleaning, KPI 
 
 ## 📂 Repository Structure
 
-```
+```text
 HR-Analytics-Dashboard-Excel
 │
-├── Dashboard
-├── Cleaned Dataset
-├── Business Report
-├── Presentation
-└── Images
+├── 📁 Dashboard
+│   └── HR_Analytics_Dashboard.xlsx
+│
+├── 📁 Dataset
+│   └── HR_Dataset_Cleaned.xlsx
+│
+├── 📁 Report
+│   └── HR_Analytics_Report.pdf
+│
+├── 📁 Presentation
+│   └── HR_Analytics_Presentation.pptx
+│
+├── 📁 Images
+│   └── dashboard.png
+│
+├── 📄 README.md
+└── 📄 LICENSE
 ```
-
 ---
 
 ## 📷 Dashboard Preview
