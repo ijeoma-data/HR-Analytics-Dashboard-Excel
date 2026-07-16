@@ -56,6 +56,21 @@ The project demonstrates end-to-end data analysis, including data cleaning, KPI 
 
 ---
 
+## ❓ Business Questions Answered
+
+This project answers the following HR business questions:
+
+1. What is the overall employee turnover rate, and which departments have the highest and lowest turnover?
+2. Which year recorded the highest number of employee terminations?
+3. What is the average tenure of terminated employees, and how does it compare between departments?
+4. Which recruitment source generates the most hires and the highest-performing employees?
+5. Is there a gender pay gap within the organization?
+6. Which age group experiences the highest employee turnover?
+7. Which department has the highest employee engagement and satisfaction?
+8. Do employees who exceed expectations remain with the company longer than those requiring improvement?
+
+---
+
 ## 📈 Key Insights
 
 - Overall employee turnover rate was **33.4%**.
