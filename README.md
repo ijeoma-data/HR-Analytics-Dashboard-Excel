@@ -70,7 +70,7 @@ HR-Analytics-Dashboard-Excel
 
 ## 📷 Dashboard Preview
 
-*(Dashboard screenshot will be added here.)*
+![HR Analytics Dashboard](Images/dashboard.png)
 
 ---
 
