@@ -110,7 +110,7 @@ HR-Analytics-Dashboard-Excel
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](Images/dashboard.png)
+![HR-Analytics-Dashboard-Excel](Images/dashboard.png)
 
 ---
 
