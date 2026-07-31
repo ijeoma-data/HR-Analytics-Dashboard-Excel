@@ -114,7 +114,7 @@ HR-Analytics-Dashboard-Excel
 
 ---
 
-## 👤 Author
+## 👩🏽‍💻 Author
 
 **Ijeoma Okeke**
 
