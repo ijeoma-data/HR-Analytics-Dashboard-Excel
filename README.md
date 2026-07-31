@@ -1,5 +1,23 @@
 # HR Analytics Dashboard (Excel)
 
+# 👥 HR Analytics Dashboard
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![HR Analytics](https://img.shields.io/badge/HR-Analytics-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-success?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+An interactive HR Analytics dashboard built using Microsoft Excel.
+
+---
+
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard](Images/dashboard.png)
+
+---
+
 ## 📌 Project Overview
 
 This project presents an interactive **HR Analytics Dashboard** developed in **Microsoft Excel** to analyze employee data from **2006–2019**.
